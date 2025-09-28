@@ -1,7 +1,7 @@
 url: https://sodeom.com/
-status: up
-code: 200
-responseTime: 23849
-lastUpdated: 2025-09-28T08:00:31.461Z
+status: down
+code: 502
+responseTime: 258
+lastUpdated: 2025-09-28T08:25:11.470Z
 startTime: 2025-09-02T17:06:35.290Z
 generator: Upptime <https://github.com/upptime/upptime>
