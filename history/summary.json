@@ -4,7 +4,7 @@
     "url": "https://sodeom.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sodeom.com.ico",
     "slug": "sodeom",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 392,
     "timeYear": 678,
     "dailyMinutesDown": {
+      "2026-03-09": 0,
       "2026-02-26": 55,
       "2026-02-08": 33,
       "2026-01-06": 27,
