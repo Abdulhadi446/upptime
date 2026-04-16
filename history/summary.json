@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sodeom.com.ico",
     "slug": "sodeom",
     "status": "up",
-    "uptime": "98.17%",
+    "uptime": "98.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "78.83%",
+    "uptimeWeek": "82.52%",
     "uptimeMonth": "91.19%",
-    "uptimeYear": "98.17%",
-    "time": 760,
-    "timeDay": 351,
-    "timeWeek": 1745,
-    "timeMonth": 808,
-    "timeYear": 760,
+    "uptimeYear": "98.18%",
+    "time": 758,
+    "timeDay": 346,
+    "timeWeek": 1651,
+    "timeMonth": 797,
+    "timeYear": 758,
     "dailyMinutesDown": {
       "2026-04-11": 392,
       "2026-04-10": 802,
@@ -35,26 +35,6 @@
       "2025-09-26": 409,
       "2025-09-17": 17,
       "2025-09-05": 24
-    }
-  },
-  {
-    "name": "pornhub",
-    "url": "https://www.pornhub.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/www.pornhub.com.ico",
-    "slug": "pornhub",
-    "status": "up",
-    "uptime": "89.69%",
-    "uptimeDay": "89.69%",
-    "uptimeWeek": "89.69%",
-    "uptimeMonth": "89.69%",
-    "uptimeYear": "89.69%",
-    "time": 3853,
-    "timeDay": 3853,
-    "timeWeek": 3853,
-    "timeMonth": 3853,
-    "timeYear": 3853,
-    "dailyMinutesDown": {
-      "2026-04-15": 40
     }
   }
 ]
