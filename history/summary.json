@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sodeom.com.ico",
     "slug": "sodeom",
     "status": "down",
-    "uptime": "96.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "84.86%",
-    "uptimeMonth": "86.73%",
-    "uptimeYear": "96.97%",
-    "time": 770,
-    "timeDay": 400,
-    "timeWeek": 330,
-    "timeMonth": 976,
-    "timeYear": 770,
+    "uptime": "96.90%",
+    "uptimeDay": "79.96%",
+    "uptimeWeek": "82.00%",
+    "uptimeMonth": "86.08%",
+    "uptimeYear": "96.90%",
+    "time": 768,
+    "timeDay": 313,
+    "timeWeek": 309,
+    "timeMonth": 957,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2025-09-05": 24,
       "2025-09-17": 17,
@@ -45,7 +45,9 @@
       "2026-05-17": 1032,
       "2026-05-16": 204,
       "2026-05-26": 1066,
-      "2026-05-25": 460
+      "2026-05-25": 460,
+      "2026-05-31": 162,
+      "2026-05-30": 127
     }
   }
 ]
