@@ -10,11 +10,11 @@
     "uptimeWeek": "84.62%",
     "uptimeMonth": "83.19%",
     "uptimeYear": "96.64%",
-    "time": 759,
-    "timeDay": 172,
-    "timeWeek": 305,
-    "timeMonth": 929,
-    "timeYear": 759,
+    "time": 758,
+    "timeDay": 195,
+    "timeWeek": 295,
+    "timeMonth": 910,
+    "timeYear": 758,
     "dailyMinutesDown": {
       "2025-09-05": 24,
       "2025-09-17": 17,
@@ -49,5 +49,23 @@
       "2026-05-31": 1424,
       "2026-05-30": 127
     }
+  },
+  {
+    "name": "TheTrillioniar",
+    "url": "https://thetrillioniar.me/",
+    "icon": "https://icons.duckduckgo.com/ip3/thetrillioniar.me.ico",
+    "slug": "the-trillioniar",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 585,
+    "timeDay": 585,
+    "timeWeek": 585,
+    "timeMonth": 585,
+    "timeYear": 585,
+    "dailyMinutesDown": {}
   }
 ]
