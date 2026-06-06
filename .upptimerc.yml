@@ -22,6 +22,9 @@ sites:
   - name: CDN Assets
     url: https://cdn.thetrillioniar.me/favicon.svg
 
+  - name: Sodeom
+    url: https://sodeom.com/
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
