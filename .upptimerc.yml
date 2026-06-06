@@ -1,27 +1,33 @@
-# Change these first
-owner: Abdulhadi446 # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# Upptime configuration for Trillionir AI status page
+owner: Abdulhadi446
+repo: upptime
 
 sites:
-  - name: Sodeom
-    url: https://sodeom.com/
-
-  - name: TheTrillioniar
+  - name: API (trillioniar.me)
     url: https://thetrillioniar.me/
+  - name: Chat
+    url: https://chat.thetrillioniar.me/
+  - name: Blog
+    url: https://blog.thetrillioniar.me/
+  - name: CDN
+    url: https://cdn.thetrillioniar.me/style.css
+  - name: Docs
+    url: https://docs.thetrillioniar.me/
+  - name: Social
+    url: https://social.thetrillioniar.me/
+  - name: Uptime
+    url: https://uptime.thetrillioniar.me/
+
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  
-  baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.thetrillioniar.me
+  logoUrl: https://cdn.thetrillioniar.me/favicon.svg
+  name: Trillionir AI
+  introTitle: "**Trillionir AI** Status Page"
+  introMessage: "Real-time uptime monitoring for all Trillionir AI services. Powered by [Upptime](https://upptime.js.org)."
   navbar:
     - title: Status
       href: /
+    - title: Home
+      href: https://thetrillioniar.me
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      href: https://github.com/Abdulhadi446/upptime
