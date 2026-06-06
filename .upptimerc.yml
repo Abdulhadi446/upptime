@@ -15,8 +15,6 @@ sites:
     url: https://social.thetrillioniar.me/
   - name: API Docs
     url: https://docs.thetrillioniar.me/
-  - name: Uptime Page
-    url: https://uptime.thetrillioniar.me/
   - name: Status Page
     url: https://status.thetrillioniar.me/
   - name: CDN Assets
