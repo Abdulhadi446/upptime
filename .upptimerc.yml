@@ -9,8 +9,6 @@ sites:
     url: https://www.thetrillioniar.me/
   - name: Chat Interface
     url: https://chat.thetrillioniar.me/
-  - name: Blog
-    url: https://blogs.thetrillioniar.me/
   - name: Community Hub
     url: https://social.thetrillioniar.me/
   - name: API Docs
