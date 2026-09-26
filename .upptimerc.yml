@@ -17,7 +17,8 @@ sites:
     url: https://status.thetrillioniar.me/
   - name: CDN Assets
     url: https://cdn.thetrillioniar.me/favicon.svg
-
+  - name: Blog-s
+    url: https://blogs.thetrillioniar.me/
   - name: Sodeom
     url: https://sodeom.com/
 
