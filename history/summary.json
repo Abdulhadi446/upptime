@@ -168,12 +168,12 @@
     "url": "https://sodeom.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sodeom.com.ico",
     "slug": "sodeom",
-    "status": "up",
-    "uptime": "86.41%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "86.45%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.28%",
-    "uptimeYear": "87.19%",
+    "uptimeYear": "87.23%",
     "time": 742,
     "timeDay": 395,
     "timeWeek": 367,
@@ -224,7 +224,8 @@
       "2026-09-01": 1440,
       "2026-08-31": 351,
       "2026-10-17": 462,
-      "2026-10-16": 732
+      "2026-10-16": 732,
+      "2026-10-26": 0
     }
   }
 ]
